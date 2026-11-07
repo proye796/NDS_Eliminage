@@ -1,4 +1,4 @@
-# エルミナージュ ~闇の巫女と神々の指輪~ DS Remix NDS 한국어 패치 v1.0
+# エルミナージュ 闇の巫女と神々の指輪 DS Remix NDS 한국어 패치 v1.0
 
 작성일: 2026-11-07
 대상: Elminage - Yami no Miko to Kamigami no Yubiwa - DS Remix
