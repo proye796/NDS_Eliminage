@@ -1,6 +1,6 @@
-# エルミナージュ 闇の巫女と神々の指輪 DS Remix NDS 한국어 패치 v1.0
+# エルミナージュ ~闇の巫女と神々の指輪~ DS Remix NDS 한국어 패치 v1.0.1
 
-작성일: 2026-11-07
+작성일: 2026-11-21
 대상: Elminage - Yami no Miko to Kamigami no Yubiwa - DS Remix
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
@@ -15,16 +15,13 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Elminage-KO-v1.0.nds | 134,217,728 | 146ba2fea17e6ae09d94eb6c46a3c13862ace22b06b5bcb783aab6ffbdd675ab |
+| Elminage-KO-v1.0.1.nds | 134,217,728 | fab14cfcc4dcd4c8d3acb18140fdc8821e1cfbcd044b63848bb2cf4ec0097e42 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Elminage-KO-v1.0.zip | 1,479,189 | 1796fe5b7c8a6b95f7eb7b0ed8c75f551b98d3442d5a4286a1786061d413cb9e |
-| Elminage-KO-v1.0.bps | 3,910,479 | 69f7bdf1bc520addcf5439a26d233fe16918264edb1e8f3e876e2e6db13ee10a |
-
-ZIP에는 BPS 패치, 사용법, 갈무리 글꼴 라이선스가 들어 있습니다. BPS를 지원하는 패치 도구로 원본 ROM에 적용하고, 결과의 SHA-256이 위 표와 같은지 확인하세요.
+| Elminage-KO-v1.0.1.bps | 3,899,345 | d8593a5a1bdc2e1db197a8fd97c0f6c5effca0d72b04acbc2ef819a8aed439e4 |
 
 ## 고친 버그
 
